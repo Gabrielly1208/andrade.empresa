@@ -1,11 +1,13 @@
 .titulo-principal{
  padding-left: 30px; 
  color: #87CEEB;
+text-align: center;
 }
 
 .principal{
- background-color: #ADD8E6;
-  padding: 30px;
+background-color: #ADD8E6;
+padding: 30px;
+height: 243px;
 }
 
 .titulo-centralizado{
@@ -25,7 +27,7 @@ em strong {
 }
 
 #banner{
-  width: 21%;
+  height: 303px;
   float:left;
 }
 
@@ -47,3 +49,4 @@ ul {
 img id{
 text-align:left; 
 }
+

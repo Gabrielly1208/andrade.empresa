@@ -1,13 +1,12 @@
 header {
   background: #B0C4DE	;
-  padding: 20px 0;
+  padding:20px 0;
 }
 
 .caixa {
-  width: 940px;
+  width: 900px;
   position: relative;
   margin: 0 auto;
-
 }
 
 nav {
@@ -45,7 +44,7 @@ nav a:hover{
   text-align: center;
   width: 30%;
   vertical-align: top;
-  margin: 0 1.5%;
+  margin: 10px 1.5%;
   padding: 30px 20px;
   box-sizing: border-box;
   border: 2px solid #000000;
@@ -163,4 +162,8 @@ th, td{
 .utensilios{
   width: 120px;
   margin: 0 20 px 20px 0;
+}
+
+#contato{
+  height: 200px;
 }
