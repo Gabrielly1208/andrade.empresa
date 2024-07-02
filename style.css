@@ -16,11 +16,12 @@ height: 243px;
 
 p {
   text-align: center;
-}
+}ENVIAR
 
+#CEECF5
 #missao{
   font-size:20px;
-}
+}#CEECF5
 
 em strong {
   color: #191970;
@@ -35,7 +36,7 @@ ul {
   display: inline-block;
   vertical-align: top;
   width: 20%;
-  margin-right: 15%;
+  margin-right: 15%;#CEECF5
 }
 
 #beneficios{
@@ -48,5 +49,9 @@ ul {
 
 img id{
 text-align:left; 
+}
+
+body{
+  background-color: #ffffff;
 }
 
